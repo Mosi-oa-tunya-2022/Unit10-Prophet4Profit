@@ -9,7 +9,7 @@
 
 ## SUBMITTED COMPLETED HOMEWORK
 
-Download the following files to help you get started:
+Click below for completed homework:
 
 [Forecasting Net Prophet notebook](Starter_Code/forecasting_net_prophet.ipynb)
 
