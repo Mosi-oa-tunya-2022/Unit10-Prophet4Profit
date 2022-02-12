@@ -1,4 +1,4 @@
-# Unit 10: Forecasting Net Prophet
+# Unit 10: Propheting Net Profit
 
 ![Decorative image.](Images/unit-10-readme-photo.png)
 
